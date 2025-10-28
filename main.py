@@ -40,7 +40,6 @@ st.markdown("""
     }
     .translation-box {
         padding: 1rem;
-        background-color: #f0f8ff;
         border: 2px solid #1f77b4;
         border-radius: 5px;
         margin: 1rem 0;
@@ -363,4 +362,5 @@ st.markdown("""
         <p>Text-to-Speech with Translation</p>
         <p>Translate and convert text into speech in 100+ languages</p>
     </div>
+
 """, unsafe_allow_html=True)
